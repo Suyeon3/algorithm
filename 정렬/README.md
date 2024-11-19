@@ -269,7 +269,7 @@ T(n) = (n-1) + (n-2) + ... + 2 + 1 = n(n-1)/2 = O(n^2)
 
 ### 합병 단계
 
-![합병 단계 시간복잡도]{https://gmlwjd9405.github.io/images/algorithm-merge-sort/sort-time-complexity-etc.png} 
+![합병 단계 시간복잡도](https://gmlwjd9405.github.io/images/algorithm-merge-sort/sort-time-complexity-etc.png)
 
   (비교횟수)
 
